@@ -1,10 +1,10 @@
 MINDFLEX
 
-Richard Del Carmen Jr.
-Larissa Eunice Panganiban
-Francis Emil Rosete
-Aaron Paul Sario
-Janico Gyle Sorio
+Richard Del Carmen Jr.,
+Larissa Eunice Panganiban,
+Francis Emil Rosete,
+Aaron Paul Sario,
+Janico Gyle Sorio,
 Varnard Paulo Udani
 
 Hare and Turtle Race 
