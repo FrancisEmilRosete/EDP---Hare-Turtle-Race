@@ -1,11 +1,11 @@
 MINDFLEX
 
-Del Carmen, Richard Jr.
-Panganiban, Larissa Eunice
-Rosete, Francis Emil
-Sario, Aaron Paul
-Sorio, Janico Gyle
-Udani, Varnard Paulo
+Richard Del Carmen Jr.
+Larissa Eunice Panganiban
+Francis Emil Rosete
+Aaron Paul Sario
+Janico Gyle Sorio
+Varnard Paulo Udani
 
 Hare and Turtle Race 
 
